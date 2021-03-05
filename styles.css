@@ -1,0 +1,103 @@
+
+.nav-item{
+  padding: 3% 15% 7%;
+  font-size: 1.2rem;
+}
+
+
+#sec1{
+  line-height: 2;
+  background-color: #cbf1f5;
+  margin: 3% 7%;
+  padding: 3% 7% 4%;
+}
+
+#sec2{
+  line-height: 2;
+  margin: 3% 7%;
+  padding: 2%;
+}
+.ula{
+  border: solid;
+  border-color: white;
+  height: 270px;
+}
+
+
+.lo{
+  color: #88304e;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.lol{
+  padding-left: 2%;
+}
+
+.ffg{
+  padding:3% 15% 7%;
+  text-align: center;
+}
+
+
+.testemonia-text{
+  font-size: 200%;
+  line-height: 2;
+  text-align: center;
+}
+
+#sec3{
+  line-height: 2;
+  background-color: #fff3e6;
+  margin: 3% 7%;
+  padding: 3% 7% 4%;
+}
+
+.body{
+  text-align: center;
+}
+
+.coloured-bg{
+  background-color: #351f39;
+  color: white;
+}
+
+
+.spc{
+  padding-top: 14%;
+}
+
+.txt{
+  width: 95%;
+  margin: 3%;
+}
+
+
+#contact-form{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7kW8_F1XTGOzAX1kWs0dIMsHTqxi2Rwo5A&usqp=CAU");
+  height: 70%;
+  width: 100%;
+  text-align: center;
+  color: #c9d6df;
+
+}
+
+.po{
+margin:7% auto;
+padding: 2% 1%;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrpxjAOTPXW0F74Bof1XUBmMRMXJuS0mR4A&usqp=CAU");
+width: 45%;
+}
+
+.white-bg{
+  color:#b9d7ea;
+  background-color: #303841;
+}
+
+#footer{
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.ss{
+  margin: 3% 1%;
+}
